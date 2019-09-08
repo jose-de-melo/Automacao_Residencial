@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina Sistemas Distribuídos do curso de Tecnologia em Sistemas para Internet.
 
-[Página do projeto](https://guilhermedomith.github.io/Automacao_Residencial/)
+[Página do projeto](https://jose-de-melo.github.io/Automacao_Residencial/)
 
 
 ## Dependências
